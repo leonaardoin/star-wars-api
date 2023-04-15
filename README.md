@@ -5,5 +5,5 @@
 * Flexbox
 
 ### Live preview
-https://codesandbox.io/s/star-wars-api-ugsgno
+https://ugsgno.csb.app/
 
